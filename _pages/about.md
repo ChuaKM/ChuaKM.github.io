@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-I'm currently a data analyst at eBay, and a data science postgrad at Johns Hopkins University.
+Thanks for checking out my site! It's a little empty right now, but I'll be publishing some ML tutorials as well as projects that I complete as a part of Johns Hopkin's postgrad data science program. 
 
-My career began at Mercer Consulting, where I have experience in forecasting and financial analysis. There, my passion for data expanded, and I decided to pursue a career in the cutting-edge. My core competencies are in Python, R, and Java. 
-
-I also work part-time as a property manager for a few multifamily homes in the greater Seattle area. Real-estate is another passion of mine, and I love interacting with our tenants on a daily basis. 
+In the meantime, you can check out my linkedin: https://www.linkedin.com/in/kchua1/
